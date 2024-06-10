@@ -8,4 +8,4 @@ HTML & CSS
 
 # Deployment 
 
- <a href="https://khatiachip.github.io/Carousel-Project/"> <strong >You can review project link here </strong> </a>
+ <a href="https://khatiachip.github.io/Carousel-Project/"> <strong >YOU CAN REVIEW PROJECT HERE </strong> </a>
